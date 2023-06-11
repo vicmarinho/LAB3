@@ -1,0 +1,10 @@
+﻿consult('main.pro').
+list_comprehension(List).
+print_list([1, 2, 3, 4, 5]).
+search_list(germany, [france, germany, uk, spain, italy]).
+count_elements([1, 2, 3, 4, 5], Count).
+max_value([10, 5, 8, 3, 12], Max).
+average_value([1, 2, 3, 4, 5], Average).
+min_value([10, 5, 8, 3, 12], Min).
+get_population(france, Population).
+get_capitals(europe, Capitals).
